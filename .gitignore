@@ -1,0 +1,39 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+requirements_lock.txt
+
+# Databases and Local Storage
+data/
+index/
+users_db/
+*.db
+*.sqlite3
+
+# Environment Variables
+.env
+.env.local
+.env.*
+
+# Logs
+logs/
+*.log
+err.txt
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.eslintcache
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

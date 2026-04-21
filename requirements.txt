@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymupdf
+faiss-cpu
+sentence-transformers
+numpy
+openai
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic[email]
+python-dotenv
+groq
+requests
+beautifulsoup4
